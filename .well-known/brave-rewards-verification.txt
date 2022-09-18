@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: marco1410.github.io
+Token: 968abe9a14c62902b06c35a8b1e73ef98fdc016b3b207fe9a67cb49a7dd8f8c1
